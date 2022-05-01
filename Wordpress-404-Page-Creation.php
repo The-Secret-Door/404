@@ -1,3 +1,6 @@
+#Implement on Functions.php
+#Need Cpanel
+
 <div class="row-inner">
 <div class="pos-middle pos-center align_center column_parent col-lg-12 single-internal-gutter">
 <div class="uncol">
