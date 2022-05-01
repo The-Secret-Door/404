@@ -23,3 +23,5 @@
 Note: <?php wp_nav_menu(array('main_nav' => 'main nav menu','menu_class'=> 'error-menu','menu'=> 'Main Menu')); ?>
 
 Last code need to change from here:  "Main Menu"  Dashboard>Appearanc>Menu>Name
+
+
